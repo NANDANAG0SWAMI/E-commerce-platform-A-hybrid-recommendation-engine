@@ -1,0 +1,406 @@
+[
+  {
+    "user_id": "user_1",
+    "products": [
+      162,
+      166,
+      309
+    ]
+  },
+  {
+    "user_id": "user_2",
+    "products": [
+      66,
+      34,
+      102,
+      99
+    ]
+  },
+  {
+    "user_id": "user_3",
+    "products": [
+      406,
+      372,
+      57,
+      397,
+      202
+    ]
+  },
+  {
+    "user_id": "user_4",
+    "products": [
+      429,
+      102
+    ]
+  },
+  {
+    "user_id": "user_5",
+    "products": [
+      74,
+      134,
+      247,
+      71
+    ]
+  },
+  {
+    "user_id": "user_6",
+    "products": [
+      383,
+      380,
+      319,
+      471
+    ]
+  },
+  {
+    "user_id": "user_7",
+    "products": [
+      277,
+      72,
+      188,
+      11,
+      57
+    ]
+  },
+  {
+    "user_id": "user_8",
+    "products": [
+      40,
+      472,
+      458,
+      167
+    ]
+  },
+  {
+    "user_id": "user_9",
+    "products": [
+      304,
+      372,
+      458,
+      346,
+      295
+    ]
+  },
+  {
+    "user_id": "user_10",
+    "products": [
+      116,
+      272
+    ]
+  },
+  {
+    "user_id": "user_11",
+    "products": [
+      231
+    ]
+  },
+  {
+    "user_id": "user_12",
+    "products": [
+      483,
+      28,
+      49
+    ]
+  },
+  {
+    "user_id": "user_13",
+    "products": [
+      422
+    ]
+  },
+  {
+    "user_id": "user_14",
+    "products": [
+      229,
+      38
+    ]
+  },
+  {
+    "user_id": "user_15",
+    "products": [
+      428,
+      321,
+      251,
+      18
+    ]
+  },
+  {
+    "user_id": "user_16",
+    "products": [
+      140,
+      26,
+      474,
+      265,
+      287
+    ]
+  },
+  {
+    "user_id": "user_17",
+    "products": [
+      266,
+      121,
+      92,
+      163,
+      305
+    ]
+  },
+  {
+    "user_id": "user_18",
+    "products": [
+      47,
+      440,
+      11
+    ]
+  },
+  {
+    "user_id": "user_19",
+    "products": [
+      304
+    ]
+  },
+  {
+    "user_id": "user_20",
+    "products": [
+      13,
+      477,
+      435,
+      122,
+      304
+    ]
+  },
+  {
+    "user_id": "user_21",
+    "products": [
+      357,
+      495
+    ]
+  },
+  {
+    "user_id": "user_22",
+    "products": [
+      316,
+      335,
+      11
+    ]
+  },
+  {
+    "user_id": "user_23",
+    "products": [
+      307,
+      8,
+      267,
+      468,
+      359
+    ]
+  },
+  {
+    "user_id": "user_24",
+    "products": [
+      328
+    ]
+  },
+  {
+    "user_id": "user_25",
+    "products": [
+      417,
+      443,
+      462,
+      64
+    ]
+  },
+  {
+    "user_id": "user_26",
+    "products": [
+      451,
+      60,
+      48
+    ]
+  },
+  {
+    "user_id": "user_27",
+    "products": [
+      131,
+      457
+    ]
+  },
+  {
+    "user_id": "user_28",
+    "products": [
+      179,
+      491,
+      192
+    ]
+  },
+  {
+    "user_id": "user_29",
+    "products": [
+      26,
+      23,
+      142
+    ]
+  },
+  {
+    "user_id": "user_30",
+    "products": [
+      301,
+      251,
+      161
+    ]
+  },
+  {
+    "user_id": "user_31",
+    "products": [
+      81
+    ]
+  },
+  {
+    "user_id": "user_32",
+    "products": [
+      132,
+      35
+    ]
+  },
+  {
+    "user_id": "user_33",
+    "products": [
+      61,
+      99,
+      202,
+      108
+    ]
+  },
+  {
+    "user_id": "user_34",
+    "products": [
+      450,
+      414,
+      328,
+      406,
+      184
+    ]
+  },
+  {
+    "user_id": "user_35",
+    "products": [
+      274,
+      119,
+      261
+    ]
+  },
+  {
+    "user_id": "user_36",
+    "products": [
+      371,
+      68
+    ]
+  },
+  {
+    "user_id": "user_37",
+    "products": [
+      286
+    ]
+  },
+  {
+    "user_id": "user_38",
+    "products": [
+      244
+    ]
+  },
+  {
+    "user_id": "user_39",
+    "products": [
+      463
+    ]
+  },
+  {
+    "user_id": "user_40",
+    "products": [
+      382
+    ]
+  },
+  {
+    "user_id": "user_41",
+    "products": [
+      56,
+      265,
+      219,
+      279,
+      419
+    ]
+  },
+  {
+    "user_id": "user_42",
+    "products": [
+      338,
+      172,
+      402,
+      9,
+      254
+    ]
+  },
+  {
+    "user_id": "user_43",
+    "products": [
+      388,
+      390,
+      366,
+      265
+    ]
+  },
+  {
+    "user_id": "user_44",
+    "products": [
+      416
+    ]
+  },
+  {
+    "user_id": "user_45",
+    "products": [
+      452,
+      137
+    ]
+  },
+  {
+    "user_id": "user_46",
+    "products": [
+      455,
+      188
+    ]
+  },
+  {
+    "user_id": "user_47",
+    "products": [
+      193,
+      73,
+      492
+    ]
+  },
+  {
+    "user_id": "user_48",
+    "products": [
+      292,
+      210,
+      358,
+      284,
+      450
+    ]
+  },
+  {
+    "user_id": "user_49",
+    "products": [
+      455,
+      462,
+      474,
+      279
+    ]
+  },
+  {
+    "user_id": "user_50",
+    "products": [
+      387,
+      351,
+      288,
+      451,
+      429
+    ]
+  }
+]
