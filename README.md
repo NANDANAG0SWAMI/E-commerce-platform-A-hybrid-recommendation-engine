@@ -1,4 +1,4 @@
-Hybrid Recommendation System POC
+# Hybrid Recommendation System POC
 
 
 A Flask-based e-commerce proof-of-concept that demonstrates various product recommendation algorithms. This application simulates a retail environment to track user behavior and serve personalized content using a hybrid approach of collaborative filtering and rule-based logic.
